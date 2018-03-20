@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="knight" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="knight" target="1.5" />
+      <module name="jj" target="1.5" />
+      <module name="knight" target="1.6" />
+      <module name="stereo-mixedconfig" target="1.5" />
+      <module name="stereomixedconfig" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

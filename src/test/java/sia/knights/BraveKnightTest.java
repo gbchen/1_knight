@@ -1,10 +1,6 @@
 package sia.knights;
 import static org.mockito.Mockito.*;
-
 import org.junit.Test;
-
-import sia.knights.BraveKnight;
-import sia.knights.Quest;
 
 public class BraveKnightTest {
 
