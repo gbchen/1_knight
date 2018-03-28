@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../7Spittr/7Spittr.iml" filepath="$PROJECT_DIR$/../7Spittr/7Spittr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../9thymeleaf/9thymeleaf.iml" filepath="$PROJECT_DIR$/../9thymeleaf/9thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AnnotationsSample/AnnotationsSample.iml" filepath="$PROJECT_DIR$/../AnnotationsSample/AnnotationsSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../18STOMP/STOMP.iml" filepath="$PROJECT_DIR$/../18STOMP/STOMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../18STOMPUser/STOMPUser.iml" filepath="$PROJECT_DIR$/../18STOMPUser/STOMPUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../5Spittr/Spittr.iml" filepath="$PROJECT_DIR$/../5Spittr/Spittr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../8SpringPizza/SpringPizza.iml" filepath="$PROJECT_DIR$/../8SpringPizza/SpringPizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../18WebSocket/WebSocket.iml" filepath="$PROJECT_DIR$/../18WebSocket/WebSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../17amqp/amqp.iml" filepath="$PROJECT_DIR$/../17amqp/amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13caching/caching.iml" filepath="$PROJECT_DIR$/../13caching/caching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3conditional/conditional.iml" filepath="$PROJECT_DIR$/../3conditional/conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../21contacts/contacts.iml" filepath="$PROJECT_DIR$/../21contacts/contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../21contacts_cli/contacts_cli.iml" filepath="$PROJECT_DIR$/../21contacts_cli/contacts_cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3externals/externals.iml" filepath="$PROJECT_DIR$/../3externals/externals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11hibernate4/hibernate4.iml" filepath="$PROJECT_DIR$/../11hibernate4/hibernate4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10jdbc/jdbc.iml" filepath="$PROJECT_DIR$/../10jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../17jms/jms.iml" filepath="$PROJECT_DIR$/../17jms/jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11jpaHibernate/jpaHibernate.iml" filepath="$PROJECT_DIR$/../11jpaHibernate/jpaHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11jpaSpringdata/jpaSpringdata.iml" filepath="$PROJECT_DIR$/../11jpaSpringdata/jpaSpringdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6jsp/jsp.iml" filepath="$PROJECT_DIR$/../6jsp/jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/knight.iml" filepath="$PROJECT_DIR$/knight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../19mail/mail.iml" filepath="$PROJECT_DIR$/../19mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14methodsecurity/methodsecurity.iml" filepath="$PROJECT_DIR$/../14methodsecurity/methodsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12mongo/mongo.iml" filepath="$PROJECT_DIR$/../12mongo/mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12neo4j/neo4j.iml" filepath="$PROJECT_DIR$/../12neo4j/neo4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3profiles/profiles.iml" filepath="$PROJECT_DIR$/../3profiles/profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12redis/redis.iml" filepath="$PROJECT_DIR$/../12redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../21rest_hi/rest_hi.iml" filepath="$PROJECT_DIR$/../21rest_hi/rest_hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3scopedbeans/scopedbeans.iml" filepath="$PROJECT_DIR$/../3scopedbeans/scopedbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16spitter-api-content-negotiation/spitter-api-content-negotiation.iml" filepath="$PROJECT_DIR$/../16spitter-api-content-negotiation/spitter-api-content-negotiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16spitter-api-message-converters/spitter-api-message-converters.iml" filepath="$PROJECT_DIR$/../16spitter-api-message-converters/spitter-api-message-converters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2stereoAutoConfig/stereoAutoconfig.iml" filepath="$PROJECT_DIR$/../2stereoAutoConfig/stereoAutoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2stereoJavaConfig/stereoJavaConfig.iml" filepath="$PROJECT_DIR$/../2stereoJavaConfig/stereoJavaConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2stereoMixedConfig/stereoMixedconfig.iml" filepath="$PROJECT_DIR$/../2stereoMixedConfig/stereoMixedconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2stereoXmlConfig/stereoXmlConfig.iml" filepath="$PROJECT_DIR$/../2stereoXmlConfig/stereoXmlConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/../6thymeleaf/thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6tiles/tiles.iml" filepath="$PROJECT_DIR$/../6tiles/tiles.iml" />
     </modules>
   </component>
 </project>

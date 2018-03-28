@@ -4,6 +4,45 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../stereoMixedconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../stereoJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../2stereoJavaConfig的副本/pom.xml" />
+        <option value="$PROJECT_DIR$/../2stereoJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../2stereoAutoConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../2stereoMixedConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../2stereoXmlConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../3conditional/pom.xml" />
+        <option value="$PROJECT_DIR$/../3externals/pom.xml" />
+        <option value="$PROJECT_DIR$/../3profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/../3scopedbeans/pom.xml" />
+        <option value="$PROJECT_DIR$/../5Spittr/pom.xml" />
+        <option value="$PROJECT_DIR$/../6jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/../6thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/../6tiles/pom.xml" />
+        <option value="$PROJECT_DIR$/../7Spittr/pom.xml" />
+        <option value="$PROJECT_DIR$/../8SpringPizza/pom.xml" />
+        <option value="$PROJECT_DIR$/../9thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/../10jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/../11hibernate4/pom.xml" />
+        <option value="$PROJECT_DIR$/../11jpaHibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/../11jpaSpringdata/pom.xml" />
+        <option value="$PROJECT_DIR$/../12mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/../12neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/../12redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../13caching/pom.xml" />
+        <option value="$PROJECT_DIR$/../14methodsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/../16spitter-api-content-negotiation/pom.xml" />
+        <option value="$PROJECT_DIR$/../16spitter-api-message-converters/pom.xml" />
+        <option value="$PROJECT_DIR$/../17amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/../17jms/pom.xml" />
+        <option value="$PROJECT_DIR$/../18STOMP/pom.xml" />
+        <option value="$PROJECT_DIR$/../18STOMPUser/pom.xml" />
+        <option value="$PROJECT_DIR$/../18WebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/../19mail/pom.xml" />
+        <option value="$PROJECT_DIR$/../21contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/../21contacts_cli/pom.xml" />
+        <option value="$PROJECT_DIR$/../21rest_hi/pom.xml" />
+        <option value="$PROJECT_DIR$/../AnnotationsSample/pom.xml" />
       </list>
     </option>
   </component>

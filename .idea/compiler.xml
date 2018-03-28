@@ -6,13 +6,84 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="7Spittr" />
+        <module name="9thymeleaf" />
+        <module name="amqp" />
+        <module name="AnnotationsSample" />
+        <module name="AnnotationsSample (1) (com.chen)" />
+        <module name="caching" />
+        <module name="conditional" />
+        <module name="contacts" />
+        <module name="contacts_cli" />
+        <module name="externals" />
+        <module name="hibernate4" />
+        <module name="jdbc" />
+        <module name="jms" />
+        <module name="jpaHibernate" />
+        <module name="jpaSpringdata" />
+        <module name="jsp" />
+        <module name="mail" />
+        <module name="methodsecurity" />
+        <module name="mongo" />
+        <module name="neo4j" />
+        <module name="profiles" />
+        <module name="redis" />
+        <module name="rest_hi" />
+        <module name="scopedbeans" />
+        <module name="spitter-api-content-negotiation" />
+        <module name="spitter-api-message-converters" />
+        <module name="Spittr" />
+        <module name="SpringPizza" />
+        <module name="stereoAutoconfig" />
+        <module name="stereoJavaConfig" />
+        <module name="stereoJavaConfig (1)" />
+        <module name="stereoMixedconfig" />
+        <module name="stereoXmlConfig" />
+        <module name="STOMP" />
+        <module name="STOMPUser" />
+        <module name="thymeleaf" />
+        <module name="tiles" />
+        <module name="WebSocket" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="jj" target="1.5" />
+    <bytecodeTargetLevel target="1.6">
+      <module name="7Spittr" target="1.6" />
+      <module name="9thymeleaf" target="1.6" />
+      <module name="amqp" target="1.6" />
+      <module name="AnnotationsSample" target="1.6" />
+      <module name="caching" target="1.6" />
+      <module name="conditional" target="1.6" />
+      <module name="contacts" target="1.6" />
+      <module name="contacts_cli" target="1.6" />
+      <module name="externals" target="1.6" />
+      <module name="hibernate4" target="1.6" />
+      <module name="jdbc" target="1.6" />
+      <module name="jms" target="1.6" />
+      <module name="jpaHibernate" target="1.6" />
+      <module name="jpaSpringdata" target="1.6" />
+      <module name="jsp" target="1.6" />
       <module name="knight" target="1.6" />
-      <module name="stereo-mixedconfig" target="1.5" />
-      <module name="stereomixedconfig" target="1.5" />
+      <module name="mail" target="1.6" />
+      <module name="methodsecurity" target="1.6" />
+      <module name="mongo" target="1.6" />
+      <module name="neo4j" target="1.6" />
+      <module name="profiles" target="1.6" />
+      <module name="redis" target="1.6" />
+      <module name="rest_hi" target="1.6" />
+      <module name="scopedbeans" target="1.6" />
+      <module name="spitter-api-content-negotiation" target="1.6" />
+      <module name="spitter-api-message-converters" target="1.6" />
+      <module name="Spittr" target="1.6" />
+      <module name="SpringPizza" target="1.6" />
+      <module name="stereoAutoconfig" target="1.6" />
+      <module name="stereoJavaConfig" target="1.6" />
+      <module name="stereoMixedconfig" target="1.6" />
+      <module name="stereoXmlConfig" target="1.6" />
+      <module name="STOMP" target="1.6" />
+      <module name="STOMPUser" target="1.6" />
+      <module name="thymeleaf" target="1.6" />
+      <module name="tiles" target="1.6" />
+      <module name="WebSocket" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
