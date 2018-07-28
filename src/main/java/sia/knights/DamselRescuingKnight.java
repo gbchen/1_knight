@@ -2,18 +2,17 @@ package sia.knights;
 
 public class DamselRescuingKnight implements Knight {
 
-  private RescueDamselQuest quest;
+    private RescueDamselQuest quest;
 
-  /**
-   * 紧密耦合
-   */
-  public DamselRescuingKnight() {
-    this.quest = new RescueDamselQuest();
-  }
+    /**
+     * 紧密耦合
+     */
+    public DamselRescuingKnight() {
+        this.quest = new RescueDamselQuest();
+    }
 
-  @Override
-  public void embarkOnQuest() {
-    quest.embark();
-  }
+    public void embarkOnQuest() {
+        quest.embark();
+    }
 
 }
