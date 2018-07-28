@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringSecurityMethodLevelSecurityAnnotationExample:war exploded">
+    <output-path>$PROJECT_DIR$/../14SpringSecurityMethodLevelSecurityAnnotationExample/target/SpringSecurityMethodLevelSecurityAnnotationExample</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringSecurityMethodLevelSecurityAnnotationExample" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../14SpringSecurityMethodLevelSecurityAnnotationExample/target/SpringSecurityMethodLevelSecurityAnnotationExample/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="SpringSecurityMethodLevelSecurityAnnotationExample/web/Web" />
+    </root>
+  </artifact>
+</component>

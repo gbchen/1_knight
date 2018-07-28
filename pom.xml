@@ -8,32 +8,13 @@
     <artifactId>knight</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
     <properties>
-        <org.springframework-version>4.3.7.RELEASE</org.springframework-version>
+        <org.springframework-version>3.2.0.RELEASE</org.springframework-version>
         <aspectj.version>1.6.10</aspectj.version>
-        <netease.circle.dao.version>1.0.1</netease.circle.dao.version>
-        <netease.dao.custom.version>1.0.0</netease.dao.custom.version>
         <jmock.version>2.5.1</jmock.version>
         <junit.version>4.8.2</junit.version>
         <slf4j.version>1.6.1</slf4j.version>
-        <shaobing.version>1.0.5</shaobing.version>
-        <sentry-javaagent-collector.version>1.0.10</sentry-javaagent-collector.version>
-        <fastjson.version>1.2.29</fastjson.version>
-        <recommend-client.version>3.0.28</recommend-client.version>
-        <ccyctrl-autoconfigure.version>1.0.0</ccyctrl-autoconfigure.version>
     </properties>
 
     <dependencies>

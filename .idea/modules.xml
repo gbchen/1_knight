@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3ChooseTheRightAutowiredBean/3ChooseTheRightAutowiredBean.iml" filepath="$PROJECT_DIR$/../3ChooseTheRightAutowiredBean/3ChooseTheRightAutowiredBean.iml" />
       <module fileurl="file://$PROJECT_DIR$/../7Spittr/7Spittr.iml" filepath="$PROJECT_DIR$/../7Spittr/7Spittr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../9thymeleaf/9thymeleaf.iml" filepath="$PROJECT_DIR$/../9thymeleaf/9thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/../AnnotationsSample/AnnotationsSample.iml" filepath="$PROJECT_DIR$/../AnnotationsSample/AnnotationsSample.iml" />
@@ -9,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/../18STOMPUser/STOMPUser.iml" filepath="$PROJECT_DIR$/../18STOMPUser/STOMPUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/../5Spittr/Spittr.iml" filepath="$PROJECT_DIR$/../5Spittr/Spittr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../8SpringPizza/SpringPizza.iml" filepath="$PROJECT_DIR$/../8SpringPizza/SpringPizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14SpringSecurityMethodLevelSecurityAnnotationExample/SpringSecurityMethodLevelSecurityAnnotationExample.iml" filepath="$PROJECT_DIR$/../14SpringSecurityMethodLevelSecurityAnnotationExample/SpringSecurityMethodLevelSecurityAnnotationExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/../18WebSocket/WebSocket.iml" filepath="$PROJECT_DIR$/../18WebSocket/WebSocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/../17amqp/amqp.iml" filepath="$PROJECT_DIR$/../17amqp/amqp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../13caching/caching.iml" filepath="$PROJECT_DIR$/../13caching/caching.iml" />

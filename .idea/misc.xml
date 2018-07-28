@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../14SpringSecurityMethodLevelSecurityAnnotationExample" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -43,6 +46,8 @@
         <option value="$PROJECT_DIR$/../21contacts_cli/pom.xml" />
         <option value="$PROJECT_DIR$/../21rest_hi/pom.xml" />
         <option value="$PROJECT_DIR$/../AnnotationsSample/pom.xml" />
+        <option value="$PROJECT_DIR$/../3ChooseTheRightAutowiredBean/pom.xml" />
+        <option value="$PROJECT_DIR$/../14SpringSecurityMethodLevelSecurityAnnotationExample/pom.xml" />
       </list>
     </option>
   </component>
