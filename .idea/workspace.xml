@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4372e386-d03a-40cd-b626-fdb12c6e3a5d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringSecurityMethodLevelSecurityAnnotationExample_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringSecurityMethodLevelSecurityAnnotationExample_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/knight.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sia/knights/KnightMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sia/knights/KnightMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/BraveKnight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/BraveKnight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/DamselRescuingKnight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/DamselRescuingKnight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/Knight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/KnightMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/KnightMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Minstrel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/Minstrel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/Quest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/Quest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/RescueDamselQuest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/RescueDamselQuest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/SlayDragonQuest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/SlayDragonQuest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/config/KnightConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/config/KnightConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sia/knights/config/SoundSystemConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sia/knights/config/SoundSystemConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/BraveKnightTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/FakePrintStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightJavaConfigInjectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/sia/knights/KnightXMLInjectionTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="4372e386-d03a-40cd-b626-fdb12c6e3a5d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/stereomixedconfig/target/" />
@@ -102,26 +62,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-376">
-              <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sia/knights/KnightMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -203,10 +144,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1761" />
-    <option name="y" value="-516" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="x" value="1440" />
+    <option name="y" value="-607" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -229,57 +170,6 @@
               <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
               <item name="1knight" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="knights" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="knights" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1knight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1knight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -555,7 +445,7 @@
       <workItem from="1523616075266" duration="2226000" />
       <workItem from="1529333375935" duration="15000" />
       <workItem from="1529333427148" duration="10000" />
-      <workItem from="1532743101096" duration="1749000" />
+      <workItem from="1532743101096" duration="2086000" />
     </task>
     <servers />
   </component>
@@ -592,11 +482,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35932000" />
+    <option name="totallyTimeSpent" value="36269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-607" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32992327" />
@@ -618,8 +507,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35104167" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26666668" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17571884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26666668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17571884" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -852,6 +741,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/site/site.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sia/knights/KnightMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-376">
@@ -859,13 +758,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/site/site.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sia/knights/KnightMain.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="475">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
