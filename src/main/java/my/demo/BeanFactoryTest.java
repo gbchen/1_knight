@@ -7,6 +7,7 @@ import org.springframework.core.io.ClassPathResource;
 import static org.junit.Assert.assertEquals;
 
 /**
+ * <Spring 源码深度解析> 第二章 入门例子 p10
  * @author cgb
  * @create 2018-07-29
  **/
