@@ -1,5 +1,8 @@
 package sia.knights;
 
+/**
+ * @author chen
+ */
 public class DamselRescuingKnight implements Knight {
 
     private RescueDamselQuest quest;
